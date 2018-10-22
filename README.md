@@ -23,7 +23,11 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
 
 Program requirements
 -----------------------
-The steps above are only a suggestion. Your program needs to create a random walk using `Math.random()` for *all* random numbers in the assignment. Other than that, your lightning program doesn't have to work or look like any other. Have fun and be creative!
+The steps above are only a suggestion. Your program needs to create a random walk using `Math.random()` for *all* random numbers in the assignment. Also, you must comment all random numbers generated (see below). Other than that, your lightning program doesn't have to work or look like any other. Have fun and be creative!
+
+`  int die = (int)(Math.random() * 6) + 1    //[1,6] or 1 <= die <= 6`
+
+The steps above are only a suggestion. Your program needs to create a random walk using `Math.random()` for *all* random numbers in the assignment. Also, you must comment all random numbers generated (see below). Other than that, your lightning program doesn't have to work or look like any other. Have fun and be creative!
 
 Samples of Student Work
 -----------------------
